@@ -1,8 +1,8 @@
 // ------------- FILE HEADER -------------
-// Author: 
-// Assignment:
-// Date:
-// Description:
+// Author: John Garrison
+// Assignment: 1
+// Date: June 24
+// Description: 
 // Sources: 
 
 
